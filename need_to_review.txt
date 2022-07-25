@@ -1,0 +1,40 @@
+# Frontend-Web-Looks-Awesome
+
+You can skip steps, but make sure you have done all the <span style="color:red">[<u>**Required Checkpoint**</u>]</span> items.
+
+### 1 Environment Setup
+
+#### 1.1 Set up the environment
+
+- Install the latest [`node.js`](https://nodejs.org/en/download/) according to your OS (operating system)
+
+  - <span style="color:red">[**<u>Required Checkpoint</u>**] </span>
+
+    - MacOS: Input below bash script in **terminal**.
+    - Windows: Input below bash script in **Windows Command Prompt**, **Powershell** or a similar command line tool.
+    - Linux: Not a recommended developing platform.
+
+    ```bash
+    node -v
+    npm -v
+    ```
+
+    You should see a version number for each command. Make sure that `Node >= 14.0.0` and `npm >= 5.6`.
+
+  - Bug Fix
+
+    - Case "Command not found", checkout [here](https://stackoverflow.com/questions/27966258/nodejs-installed-without-npm).
+    - Case still have problem, reach out @fredhu0514.
+
+- Install the latest [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+  - MacOS: Input below bash script in **terminal**.
+
+  - Windows: Input below bash script in **Windows Command Prompt**, **Powershell** or a similar command line tool.
+
+    ``` bash
+    git --version
+    ```
+
+    You should see a version number. Make sure that `git >= 2.30.0`.
+I know this one is really hard, but I still have to do it.
